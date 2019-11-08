@@ -1,0 +1,11 @@
+C:\Users\ROSY RIVERA\source\repos\TadPila-TadCola\TadPila-TadCola\obj\Debug\netcoreapp3.0\TadPila-TadCola.csprojAssemblyReference.cache
+C:\Users\ROSY RIVERA\source\repos\TadPila-TadCola\TadPila-TadCola\obj\Debug\netcoreapp3.0\TadPila-TadCola.AssemblyInfoInputs.cache
+C:\Users\ROSY RIVERA\source\repos\TadPila-TadCola\TadPila-TadCola\obj\Debug\netcoreapp3.0\TadPila-TadCola.AssemblyInfo.cs
+C:\Users\ROSY RIVERA\source\repos\TadPila-TadCola\TadPila-TadCola\bin\Debug\netcoreapp3.0\TadPila-TadCola.exe
+C:\Users\ROSY RIVERA\source\repos\TadPila-TadCola\TadPila-TadCola\bin\Debug\netcoreapp3.0\TadPila-TadCola.deps.json
+C:\Users\ROSY RIVERA\source\repos\TadPila-TadCola\TadPila-TadCola\bin\Debug\netcoreapp3.0\TadPila-TadCola.runtimeconfig.json
+C:\Users\ROSY RIVERA\source\repos\TadPila-TadCola\TadPila-TadCola\bin\Debug\netcoreapp3.0\TadPila-TadCola.runtimeconfig.dev.json
+C:\Users\ROSY RIVERA\source\repos\TadPila-TadCola\TadPila-TadCola\bin\Debug\netcoreapp3.0\TadPila-TadCola.dll
+C:\Users\ROSY RIVERA\source\repos\TadPila-TadCola\TadPila-TadCola\bin\Debug\netcoreapp3.0\TadPila-TadCola.pdb
+C:\Users\ROSY RIVERA\source\repos\TadPila-TadCola\TadPila-TadCola\obj\Debug\netcoreapp3.0\TadPila-TadCola.dll
+C:\Users\ROSY RIVERA\source\repos\TadPila-TadCola\TadPila-TadCola\obj\Debug\netcoreapp3.0\TadPila-TadCola.pdb
